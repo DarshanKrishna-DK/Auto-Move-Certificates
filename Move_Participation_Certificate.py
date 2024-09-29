@@ -1,8 +1,8 @@
 import os
 
 # Replace with your actual paths
-source_folder = r"C:\Users\darsh\Downloads"
-destination_folder = r"C:\Users\darsh\Desktop\Personal\Documents and Certificates\Participation Certificates"
+source_folder = r"C:\Source\FilePath"
+destination_folder = r"C:\Destination\FilePath"
 
 # Loop through all files in the source folder
 for filename in os.listdir(source_folder):
